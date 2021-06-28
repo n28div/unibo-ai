@@ -27,3 +27,6 @@ Teacher: Vincenzo Romei
 - [2 - Synaptic transmission](2%20-%20Synaptic%20transmission.md)
 - [3 - TMS](3%20-%20TMS.md)
 - [4 - Vision perception](4%20-%20Vision%20perception.md)
+- [5 - Correlation and causation](5 - Correlation and causation.md)
+- [6 - Plasticity in the brain](6 - Plasticity in the brain.md)
+- [7 - Consciousness](7 - Consciousness.md)
