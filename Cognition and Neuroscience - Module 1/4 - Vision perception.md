@@ -1,5 +1,5 @@
 # Vision perception
-*lesson from 2021-03-22 and 2021-03-29*
+*lesson from 2021-03-22, 2021-03-29, 2021-04-12*
 
 In 1958 Hubel and Wiesel found out that each time a particular intesity of light was oriented in a particular angle a neuron, in a cat's brain, responded with bursts of action potential.
 From there research moved from tiny spots of lights to defining **orientation selectivity** of neurons in V1. Objects in a particular orientation corresponds to different neuron activating.
@@ -88,6 +88,12 @@ If alpha power only affects confidence during perception of a discrimination tak
 The proposal was done by recording EEG while showing to the subject a checkerboard and discriminate (by saying how confident) wether it had circles inside, with varying difficulty in discriminating those.
 The results confirm alpha power affect confidency but not accuracy. More importantly they show that higher frequency alpha waves correlates with correct discrimination.
 
+What we think we see might not correspond effectively to what is presented.
+Power and frequency could be related to this effect.
+In order to have a good perception of the world the internal representation needs to be correct and it needs to be updated frequently so that changes in the environment are correctly reflected into the brain.
+
+What is the interplay between subjective confidence (alpha power) and object accuracy detection (alpha frequency) when the location of a stimulus can be predicted?
+If a stimulus can be predicted performances significantly improved. Alpha power goes higher in the brain area that would perceive the stimulus in the wrong direction and goes lower in the area where the stimulus is attended (inhibits informations from unattended spot). The same goes for frequency, which increases where the stimulus is attended and decreases where the stimulus is not attended (increase sampling rate where stimulus is predicted to be).
 
 
 
